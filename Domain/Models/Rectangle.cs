@@ -4,22 +4,38 @@ namespace Domain.Models;
 
 public class Rectangle : Shape
 {
-    double _length;
-    double _width;
+    private double _length;
+    private double _width;
 
-    public Rectangle(double length, double width)
+    public Rectangle(string color, double length, double width) : base(color)
     {
         _length = length;
         _width = width;
     }
 
-    public override double CalculateArea()
+    public double GetLength()
+    {
+        return _length;
+    }
+
+    public double GetWidth()
+    {
+        return _width;
+    }
+
+    public double GetArea()
     {
         return _length * _width;
     }
 
-    public override string PrintDescription()
+    public double GetPerimeter()
     {
-        return "This is a Rectangle";
+        return 2 * (_length + _width);
     }
-}   
+
+    public override string GetInfo()
+    {
+        return $"Rectangle | Color: {GetColor()}, Length: {_length}, Width: {_width}, Area: {GetArea()}, Perimeter: {GetPerimeter()}";
+    }
+
+}

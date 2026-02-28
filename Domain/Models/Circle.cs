@@ -4,19 +4,31 @@ namespace Domain.Models;
 
 public class Circle : Shape
 {
-    double _radius;
-    double pi = 3.14;
-    public Circle(double radius)
+    private double _radius;
+
+    public Circle(string color, double radius) : base(color)
     {
         _radius = radius;
     }
-    public override double CalculateArea()
+
+    public double GetRadius()
     {
-        return pi * _radius * _radius;
+        return _radius;
     }
 
-    public override string PrintDescription()
+    public double GetArea()
     {
-        return "This is a Circle";
+        return Math.PI * _radius * _radius;
     }
+
+    public double GetCircumference()
+    {
+        return 2 * Math.PI * _radius;
+    }
+
+    public override string GetInfo()
+    {
+        return $"Circle | Color: {GetColor()}, Radius: {_radius}, Area: {GetArea():F2}, Circumference: {GetCircumference():F2}";
+    }
+
 }

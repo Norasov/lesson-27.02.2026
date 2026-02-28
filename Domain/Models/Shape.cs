@@ -2,11 +2,28 @@ using System;
 
 namespace Domain.Models;
 
-public abstract class Shape
+public class Shape
 {
-    public abstract double CalculateArea();
-    public virtual string PrintDescription()
+    private string _color;
+
+    public Shape(string color)
     {
-        return "This is abstract class shape";
+        _color = color;
     }
+
+    public string GetColor()
+    {
+        return _color;
+    }
+
+    public void SetColor(string color)
+    {
+        _color = color;
+    }
+
+    public virtual string GetInfo()
+    {
+        return $"Shape | Color: {_color}";
+    }
+
 }

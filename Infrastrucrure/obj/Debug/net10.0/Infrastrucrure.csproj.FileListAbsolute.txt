@@ -13,3 +13,4 @@ C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\Infrastrucrure\obj
 C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\Infrastrucrure\obj\Debug\net10.0\refint\Infrastrucrure.dll
 C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\Infrastrucrure\obj\Debug\net10.0\Infrastrucrure.pdb
 C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\Infrastrucrure\obj\Debug\net10.0\ref\Infrastrucrure.dll
+C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\Infrastrucrure\obj\Debug\net10.0\Infrastrucrure.sourcelink.json

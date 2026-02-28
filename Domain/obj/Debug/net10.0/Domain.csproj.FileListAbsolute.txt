@@ -9,3 +9,4 @@ C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\Domain\obj\Debug\n
 C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\Domain\obj\Debug\net10.0\refint\Domain.dll
 C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\Domain\obj\Debug\net10.0\Domain.pdb
 C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\Domain\obj\Debug\net10.0\ref\Domain.dll
+C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\Domain\obj\Debug\net10.0\Domain.sourcelink.json

@@ -18,3 +18,4 @@ C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\MyApp\obj\Debug\ne
 C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\MyApp\obj\Debug\net10.0\MyApp.pdb
 C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\MyApp\obj\Debug\net10.0\MyApp.genruntimeconfig.cache
 C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\MyApp\obj\Debug\net10.0\ref\MyApp.dll
+C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\MyApp\obj\Debug\net10.0\MyApp.sourcelink.json
