@@ -1,0 +1,15 @@
+C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\Infrastrucrure\bin\Debug\net10.0\Infrastrucrure.deps.json
+C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\Infrastrucrure\bin\Debug\net10.0\Infrastrucrure.dll
+C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\Infrastrucrure\bin\Debug\net10.0\Infrastrucrure.pdb
+C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\Infrastrucrure\bin\Debug\net10.0\Domain.dll
+C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\Infrastrucrure\bin\Debug\net10.0\Domain.pdb
+C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\Infrastrucrure\obj\Debug\net10.0\Infrastrucrure.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\Infrastrucrure\obj\Debug\net10.0\Infrastrucrure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\Infrastrucrure\obj\Debug\net10.0\Infrastrucrure.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\Infrastrucrure\obj\Debug\net10.0\Infrastrucrure.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\Infrastrucrure\obj\Debug\net10.0\Infrastrucrure.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\Infrastrucrure\obj\Debug\net10.0\Infrastr.96E3BD34.Up2Date
+C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\Infrastrucrure\obj\Debug\net10.0\Infrastrucrure.dll
+C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\Infrastrucrure\obj\Debug\net10.0\refint\Infrastrucrure.dll
+C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\Infrastrucrure\obj\Debug\net10.0\Infrastrucrure.pdb
+C:\Users\muham\OneDrive\Desktop\C# Softclub\lesson-27.02.2026\Infrastrucrure\obj\Debug\net10.0\ref\Infrastrucrure.dll
